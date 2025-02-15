@@ -1,28 +1,15 @@
 <div class="card p-3 mb-3 text-center sandwich-card">
-  <img src="#" alt="Sandwich Image" class="img-fluid sandwich-image">
-  <h1 class="sandwich-title"><%= @sandwich.name %></h1>
-
-<h3>Ingredients:</h3>
-<% @sandwich.ingredients.each do |ingredient| %>
-  <div>
-    <%= ingredient.name %> -
-    <%= @sandwich.ingredient_quantities[ingredient.id.to_s] || 1 %>
-    <%= ingredient.unit_of_measure %>
-  </div>
-<% end %>
-
-
   <% if @sandwich.photo.attached? %>
-    <%= cl_image_tag @sandwich.photo.key, height: 300, width: 400, crop: :fill %>
+    <%= cl_image_tag @sandwich.photo.key, height: 300, width: 400, crop: :fill, class: "img-fluid sandwich-image" %>
   <% else %>
-  <img src="#" alt="Sandwich Image" class="img-fluid sandwich-image">
+    <%= image_tag 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQDYau3Hs4-xw1i8jVSUY4BlF4FLmg8lQqg&usqp=CAU', class: "img-fluid sandwich-image" %>
   <% end %>
 
+  <h1 class="sandwich-title"><%= @sandwich.name %></h1>
 
-<div class="rating">
-  <span class="stars">⭐⭐⭐⭐⭐</span>
-</div>
-
+  <div class="rating">
+    <span class="stars">⭐⭐⭐⭐⭐</span>
+  </div>
 
   <p class="description"><%= @sandwich.description %></p>
 </div>
