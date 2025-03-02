@@ -26,130 +26,133 @@
               <!-- Instead of a checkbox, use a hidden field to send the ingredient ID -->
               <%= hidden_field_tag "sandwich[ingredient_ids][]", ingredient.id, value: ingredient.id %>
               <span class="ingredient-name"><%= ingredient.name %></span>
-              <div>
+              <div data-controller="quantity">
                 <label for="ingredient-<%= ingredient.id %>">Quantity:</label>
-                <input data-unit="<%= ingredient.unit_of_measure%>" type="range" id="ingredient-<%= ingredient.id %>" name="sandwich[ingredient_quantities][<%= ingredient.id %>]" min="1" max="10" value="1" class="quantity-slider">
-                <span class="ingredient-quantity-display">1 <%= ingredient.unit_of_measure %></span>
+                <input
+                  type="range"
+                  id="ingredient-<%= ingredient.id %>"
+                  name="sandwich[ingredient_quantities][<%= ingredient.id %>]"
+                  min="1" max="10" value="1"
+                  class="quantity-slider"
+                  data-quantity-target="slider"
+                  data-unit="<%= ingredient.unit_of_measure %>"
+                  data-action="input->quantity#update"
+                  >
+                  <span class="ingredient-quantity-display" data-quantity-target="display">
+                    1 <%= ingredient.unit_of_measure %>
+                  </span>
+                </div>
+              <% end %>
+              <div class="parent-container">
+                <button class="remove-ingredient-btn" data-action="click->ingredients#remove" data-ingredients-target="remove">−</button>
               </div>
-              <script>
-                document.querySelectorAll('.quantity-slider').forEach(slider => {
-                  slider.addEventListener('input', function() {
-                    const display = slider.closest('div').querySelector('.ingredient-quantity-display');
-                    display.textContent = `${slider.value} ${slider.dataset.unit}`;
-                  });
-                });
-              </script>
-            <% end %>
-            <div class="parent-container">
-              <button class="remove-ingredient-btn" data-action="click->ingredients#remove" data-ingredients-target="remove">−</button>
-            </div>
-          </li>
-        <% end %>
-      </ul>
-      <select data-controller="tom-select" data-ingredients-target="select" data-tom-select-options-value="{&quot;tags&quot;: true}">
+            </li>
+          <% end %>
+        </ul>
+        <select data-controller="tom-select" data-ingredients-target="select" data-tom-select-options-value="{&quot;tags&quot;: true}">
+          <% @ingredients.each do |ingredient| %>
+            <option value="<%= ingredient.id %>"> <%= ingredient.name  %> </option>
+          <% end %>
+        </select>
+        <button class="add-ingredient-btn" data-action="click->ingredients#add">+</button>
         <% @ingredients.each do |ingredient| %>
-          <option value="<%= ingredient.id %>"> <%= ingredient.name  %> </option>
-        <% end %>
-      </select>
-      <button class="add-ingredient-btn" data-action="click->ingredients#add">+</button>
-      <% @ingredients.each do |ingredient| %>
-        <template id="ingredient-template-<%= ingredient.id %>">
-          <li data-ingredients-target="listItem">
-            <% if ingredient.image_url.present? %>
-              <%= image_tag(Cloudinary::Utils.cloudinary_url(ingredient.image_url), alt: ingredient.name, width: "100", height: "100") %>
-            <% end %>
-            <%= label_tag "ingredient_#{ingredient.id}", class: "ingredient-label" do %>
-              <!-- Instead of a checkbox, use a hidden field to send the ingredient ID -->
-              <%= hidden_field_tag "sandwich[ingredient_ids][]", ingredient.id, value: ingredient.id %>
-              <span class="ingredient-name"><%= ingredient.name %></span>
-              <div>
-                <label for="ingredient-<%= ingredient.id %>">Quantity:</label>
-                <input type="range" id="ingredient-<%= ingredient.id %>" name="sandwich[ingredient_quantities][<%= ingredient.id %>]" min="1" max="10" value="1" class="quantity-slider">
-                <span class="ingredient-quantity-display">1 <%= ingredient.unit_of_measure %></span>
-              </div>
-              <script>
-                document.querySelectorAll('.quantity-slider').forEach(slider => {
-                  slider.addEventListener('input', function() {
-                    const display = slider.closest('div').querySelector('.ingredient-quantity-display');
-                    display.textContent = `${slider.value} ${slider.dataset.unit}`;
+          <template id="ingredient-template-<%= ingredient.id %>">
+            <li data-ingredients-target="listItem">
+              <% if ingredient.image_url.present? %>
+                <%= image_tag(Cloudinary::Utils.cloudinary_url(ingredient.image_url), alt: ingredient.name, width: "100", height: "100") %>
+              <% end %>
+              <%= label_tag "ingredient_#{ingredient.id}", class: "ingredient-label" do %>
+                <!-- Instead of a checkbox, use a hidden field to send the ingredient ID -->
+                <%= hidden_field_tag "sandwich[ingredient_ids][]", ingredient.id, value: ingredient.id %>
+                <span class="ingredient-name"><%= ingredient.name %></span>
+                <div>
+                  <label for="ingredient-<%= ingredient.id %>">Quantity:</label>
+                  <input type="range" id="ingredient-<%= ingredient.id %>" name="sandwich[ingredient_quantities][<%= ingredient.id %>]" min="1" max="10" value="1" class="quantity-slider">
+                  <span class="ingredient-quantity-display">1 <%= ingredient.unit_of_measure %></span>
+                </div>
+                <script>
+                  document.querySelectorAll('.quantity-slider').forEach(slider => {
+                    slider.addEventListener('input', function() {
+                      const display = slider.closest('div').querySelector('.ingredient-quantity-display');
+                      display.textContent = `${slider.value} ${slider.dataset.unit}`;
+                    });
                   });
-                });
-              </script>
-            <% end %>
-            <div class="parent-container">
-              <button class="remove-ingredient-btn" data-action="click->ingredients#remove" data-ingredients-target="remove">−</button>
-            </div>
-          </li>
-        </template>
-      <% end %>
-    </div>
-  </div>
-  <div class="growing-footer" data-controller="panel-pop-up" data-action="click->panel-pop-up#popup">
-    <p class="hover-text" style="color: #6c757d; font-weight: bold; text-align: left; padding-left: 20px;">Document Description: <span style="color: black;">Sandwich Patent</span></p>
-    <p class="hover-text" style="color: #6c757d; font-weight: bold; text-align: left; padding-left: 20px;" data-controller="doc-code">
-      Doc Code: <span data-doc-code-target="docCode"></span>
-    </p>
-    <div class="hidden-content">
-      <div style="border-radius: 10px; border: 3px solid #343a40; margin-bottom: 15px;">
-        <div class="row ms-0">
-          <div class="col-3 border-end border-2 border-dark" style="white-space: normal; word-wrap: break-word; overflow-wrap: break-word; max-height: 100%; display: flex; align-items: center; font-size: 0.8rem; color: #6c757d;">
-            Request for application of new original sandwich
-          </div>
-          <div class="col-9 ps-0">
-            <table class="w-100" style="table-layout: fixed;">
-              <tr>
-                <td class="px-2 border-dark border-start-2 border-bottom-2 text-end" style="color: black; font-weight: bold;">Sandwich Title</td>
-                <td class="px-2 border-dark border-2 border-top-0 border-end-0">
-                  <%= f.input :name, label: false, input_html: { class: 'border-0 w-100 bg-transparent text-primary no-outline custom-placeholder', placeholder: "Type here...", style: "position: relative; top: 7px; margin-left: -10px;" } %>
-                </td>
-              </tr>
-              <tr>
-                <td class="px-2 border-dark border-2 border-start-0 text-end" style="color: black; font-weight: bold;">Inventor</td>
-                <td class="px-1 border-dark border-2 border-end-0">
-                  <input type="text" value="<%= current_user.username %>" class="border-0 w-100 bg-transparent" readonly>
-                </td>
-              </tr>
-              <tr>
-                <td class="px-2 border-dark border-2 border-start-0 border-bottom-0 text-end" style="color: black; font-weight: bold;">Date</td>
-                <td class="px-2 border-dark border-2 border-end-0">
-                  <input type="date" id="dateField" class="border-0 w-100 bg-transparent" readonly>
-                </td>
-              </tr>
-              <script>
-                document.getElementById('dateField').valueAsDate = new Date();
-              </script>
-              <tr>
-                <td class="px-2 border-dark border-2 border-start-0 border-bottom-0 text-end" style="color: black; font-weight: bold;">Allergens</td>
-                <td class="px-2 border-dark border-2 border-end-0 border-bottom-0">
-                  <input type="text" placeholder="List allergens" class="border-0 w-100 bg-transparent">
-                </td>
-              </tr>
-            </table>
-          </div>
-        </div>
-      </div>
-      <div style="border-radius: 0px; border: 3px solid #343a40; margin-bottom: 15px;">
-        <div class="row ms-0" data-controller="image-preview">
-          <div class="col-4 p-2" style="display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start;">
-            <div class="p-2" style="border: 2px dotted #343a40; width: 100%; text-align: center; height: 110px; position: relative; margin-bottom: 10px;">
-              <h5 style="margin-top: 30px; font-size: 0.8rem; color: #6c757d; font-weight: bold;">Attach image here</h5>
-              <div id="imagePreviewContainer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; justify-content: center; align-items: center;">
-                <img id="imagePreview" src="" alt="Image preview" style="max-width: 110px; max-height: 105px; object-fit: contain; display: none; border: 2px solid #343a40; border-radius: 5px;" data-target="image-preview.previewImage" />
+                </script>
+              <% end %>
+              <div class="parent-container">
+                <button class="remove-ingredient-btn" data-action="click->ingredients#remove" data-ingredients-target="remove">−</button>
               </div>
+            </li>
+          </template>
+        <% end %>
+      </div>
+    </div>
+    <div class="growing-footer" data-controller="panel-pop-up" data-action="click->panel-pop-up#popup">
+      <p class="hover-text" style="color: #6c757d; font-weight: bold; text-align: left; padding-left: 20px;">Document Description: <span style="color: black;">Sandwich Patent</span></p>
+      <p class="hover-text" style="color: #6c757d; font-weight: bold; text-align: left; padding-left: 20px;" data-controller="doc-code">
+        Doc Code: <span data-doc-code-target="docCode"></span>
+      </p>
+      <div class="hidden-content">
+        <div style="border-radius: 10px; border: 3px solid #343a40; margin-bottom: 15px;">
+          <div class="row ms-0">
+            <div class="col-3 border-end border-2 border-dark" style="white-space: normal; word-wrap: break-word; overflow-wrap: break-word; max-height: 100%; display: flex; align-items: center; font-size: 0.8rem; color: #6c757d;">
+              Request for application of new original sandwich
             </div>
-            <%= f.input :photo, as: :file, label: false, input_html: { class: 'form-control', id: 'imageInput', data: { action: 'change->image-preview#showPreview' } } %>
-          </div>
-          <div class="col-8 p-2">
-            <%= f.label :description, "Applicant hereby declares the inventorship of the following sandwich and describes their invention thusly:",
-                style: "display: flex; align-items: center; font-size: 0.8rem; text-align: left; word-wrap: break-word; overflow-wrap: break-word; color: #6c757d;" %>
-            <%= f.input :description, as: :text, label: false, input_html: { class: 'form-control custom-description', rows: 5, placeholder: "Description of your totally awesome, original sandwich..." } %>
+            <div class="col-9 ps-0">
+              <table class="w-100" style="table-layout: fixed;">
+                <tr>
+                  <td class="px-2 border-dark border-start-2 border-bottom-2 text-end" style="color: black; font-weight: bold;">Sandwich Title</td>
+                  <td class="px-2 border-dark border-2 border-top-0 border-end-0">
+                    <%= f.input :name, label: false, input_html: { class: 'border-0 w-100 bg-transparent text-primary no-outline custom-placeholder', placeholder: "Type here...", style: "position: relative; top: 7px; margin-left: -10px;" } %>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-2 border-dark border-2 border-start-0 text-end" style="color: black; font-weight: bold;">Inventor</td>
+                  <td class="px-1 border-dark border-2 border-end-0">
+                    <input type="text" value="<%= current_user.username %>" class="border-0 w-100 bg-transparent" readonly>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-2 border-dark border-2 border-start-0 border-bottom-0 text-end" style="color: black; font-weight: bold;">Date</td>
+                  <td class="px-2 border-dark border-2 border-end-0">
+                    <input type="date" id="dateField" class="border-0 w-100 bg-transparent" readonly>
+                  </td>
+                </tr>
+                <script>
+                  document.getElementById('dateField').valueAsDate = new Date();
+                </script>
+                <tr>
+                  <td class="px-2 border-dark border-2 border-start-0 border-bottom-0 text-end" style="color: black; font-weight: bold;">Allergens</td>
+                  <td class="px-2 border-dark border-2 border-end-0 border-bottom-0">
+                    <input type="text" placeholder="List allergens" class="border-0 w-100 bg-transparent">
+                  </td>
+                </tr>
+              </table>
+            </div>
           </div>
         </div>
-        <!-- Submit Button -->
-        <div class="mb-3" style="display: flex; justify-content: center;">
-          <%= f.submit "Create Sandwich", class: "btn btn-primary w-80" %>
+        <div style="border-radius: 0px; border: 3px solid #343a40; margin-bottom: 15px;">
+          <div class="row ms-0" data-controller="image-preview">
+            <div class="col-4 p-2" style="display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start;">
+              <div class="p-2" style="border: 2px dotted #343a40; width: 100%; text-align: center; height: 110px; position: relative; margin-bottom: 10px;">
+                <h5 style="margin-top: 30px; font-size: 0.8rem; color: #6c757d; font-weight: bold;">Attach image here</h5>
+                <div id="imagePreviewContainer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; justify-content: center; align-items: center;">
+                  <img id="imagePreview" src="" alt="Image preview" style="max-width: 110px; max-height: 105px; object-fit: contain; display: none; border: 2px solid #343a40; border-radius: 5px;" data-target="image-preview.previewImage" />
+                </div>
+              </div>
+              <%= f.input :photo, as: :file, label: false, input_html: { class: 'form-control', id: 'imageInput', data: { action: 'change->image-preview#showPreview' } } %>
+            </div>
+            <div class="col-8 p-2">
+              <%= f.label :description, "Applicant hereby declares the inventorship of the following sandwich and describes their invention thusly:",
+                style: "display: flex; align-items: center; font-size: 0.8rem; text-align: left; word-wrap: break-word; overflow-wrap: break-word; color: #6c757d;" %>
+              <%= f.input :description, as: :text, label: false, input_html: { class: 'form-control custom-description', rows: 5, placeholder: "Description of your totally awesome, original sandwich..." } %>
+            </div>
+          </div>
+          <!-- Submit Button -->
+          <div class="mb-3" style="display: flex; justify-content: center;">
+            <%= f.submit "Create Sandwich", class: "btn btn-primary w-80" %>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-<% end %>
+  <% end %>
