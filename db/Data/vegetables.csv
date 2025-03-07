@@ -1,100 +1,100 @@
 name,description,ingr_type,unit_of_measure,image_url,flavor,texture,origin
-Lettuce,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|mild|slightly sweet,crisp,Global
-Spinach,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|iron-rich,tender,Global
-Arugula,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|nutty,tender,Europe|Mediterranean
-Kale,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|savory,chewy,Global
-Romaine,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|slightly bitter|mild,crisp,Global
-Iceberg lettuce,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|watery|slightly sweet,crisp,Global
-Butter lettuce,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|buttery|slightly sweet,tender,Global
-Red leaf lettuce,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly bitter|grassy,crisp,Global
-Green leaf lettuce,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly sweet|earthy,crisp,Global
-Endive,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|nutty|slightly sweet,crunchy,Europe
-Radicchio,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|peppery|nutty,crisp,Italy|Mediterranean
-Watercress,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|slightly bitter,tender,Global
-Cabbage,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|sweet|slightly bitter,crunchy,Global
-Red cabbage,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|sweet|slightly peppery,crunchy,Global
-Napa cabbage,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|sweet|slightly peppery,tender,Asia
-Carrot,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|earthy|mild,crunchy,Global
-Cherry tomato,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|juicy|tangy,juicy,Global
-Grape tomato,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|tangy|mild,juicy,Global
-Heirloom tomato,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|rich|tangy,juicy,Global
-Roma tomato,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,tangy|savory|mild,juicy,Global
-Beefsteak tomato,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,mild|sweet|juicy,juicy,Global
-Cucumber,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,watery|mild|refreshing,crisp,Global
-English cucumber,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,watery|mild|sweet,crisp,Global
-Persian cucumber,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,slightly sweet|mild|refreshing,crisp,Middle East
-Radish,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,peppery|spicy|earthy,crisp,Global
-Daikon radish,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,mild|peppery|slightly sweet,crisp,Asia
-Celery,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,grassy|savory|slightly bitter,crisp,Global
-Bell pepper,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|mild|grassy,crisp,Global
-Red bell pepper,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|mild|slightly fruity,crisp,Global
-Yellow bell pepper,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|fruity|mild,crisp,Global
-Orange bell pepper,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|fruity|tangy,crisp,Global
-Green bell pepper,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,grassy|slightly bitter|mild,crisp,Global
-Banana pepper,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,tangy|mildly spicy|fruity,crisp,Global
-Jalapeno,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,spicy|grassy|slightly sweet,crisp,Central America
-Poblano pepper,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,earthy|mildly spicy|smoky,crisp,Central America
-Sweet mini peppers,placeholder,vegetable (whole),gram,wire_vegetable_cubed_am_e1uugv,sweet|fruity|mild,crisp,Global
-Onion,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,pungent|sweet|sharp,crisp,Global
-Red onion,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sharp|sweet|pungent,crisp,Global
-White onion,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,mild|pungent|sweet,crisp,Global
-Green onion,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,mild|oniony|grassy,tender,Global
-Shallot,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,sweet|mild|savory,crisp,Global
-Chives,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,oniony|mild|grassy,tender,Global
-Garlic,placeholder,vegetable (cubed),gram,wire_vegetable_cubed_am_e1uugv,pungent|spicy|sharp,crisp,Global
-Avocado,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,buttery|nutty|creamy,creamy,Central America
-Zucchini,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,mild|slightly sweet|grassy,tender,Global
-Yellow squash,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,mild|slightly sweet|buttery,tender,Global
-Snow pea,placeholder,vegetable (cubed),gram,wire_vegetable_cubed_am_e1uugv,sweet|grassy|mild,crisp,Asia
-Sugar snap pea,placeholder,vegetable (cubed),gram,wire_vegetable_cubed_am_e1uugv,sweet|grassy|juicy,crisp,Global
-Green pea,placeholder,vegetable (cubed),gram,wire_vegetable_cubed_am_e1uugv,sweet|earthy|mild,tender,Global
-Microgreens,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|earthy|nutty,tender,Global
-Sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,nutty|grassy|earthy,crisp,Global
-Alfalfa sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,mild|nutty|grassy,crisp,Global
-Broccoli sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,earthy|spicy|nutty,crisp,Global
-Sunflower sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,nutty|mild|earthy,tender,Global
-Mung bean sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,earthy|nutty|mild,crisp,Asia
-Clover sprouts,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,grassy|mild|nutty,tender,Global
-Broccoli,placeholder,vegetable (whole),gram,wire_vegetable_cubed_am_e1uugv,earthy|slightly bitter|sweet,crunchy,Global
-Broccolini,placeholder,vegetable (whole),gram,wire_vegetable_cubed_am_e1uugv,earthy|mildly sweet|nutty,crunchy,Global
-Cauliflower,placeholder,vegetable (whole),gram,wire_vegetable_cubed_am_e1uugv,mild|nutty|slightly sweet,crunchy,Global
-Fennel,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,licorice|sweet|mild,crisp,Europe
-Kohlrabi,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|peppery|mild,crunchy,Europe
-Parsnip,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|earthy|nutty,crunchy,Global
-Turnip,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,peppery|slightly bitter|sweet,crisp,Global
-Beet,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,earthy|sweet|mild,crunchy,Global
-Golden beet,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|mild|earthy,crunchy,Global
-Jicama,placeholder,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|starchy|mild,crisp,Central America
-Rutabaga,placeholder,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,earthy|slightly bitter|sweet,crunchy,Europe
-Okra,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,grassy|slightly sweet|mild,slimy,Global
-Bok choy,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly peppery|sweet,crunchy,Asia
-Chard,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|savory,tender,Global
-Mustard greens,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,spicy|peppery|bitter,tender,Global
-Collard greens,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|mild,chewy,Global
-Purslane,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|citrusy|earthy,juicy,Global
-Dandelion greens,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|peppery,tender,Global
-Sorrel,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sour|citrusy|tangy,tender,Europe
-Chicory,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|slightly nutty,crisp,Europe
-Basil,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sweet|peppery|aromatic,tender,Global
-Cilantro,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,citrusy|peppery|herbaceous,tender,Global
-Parsley,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,fresh|earthy|mild,tender,Global
-Dill,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|anise-like|fresh,tender,Europe
-Mint,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,cooling|sweet|peppery,tender,Global
-Tarragon,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,licorice|anise|bitter,tender,Europe
-Thyme,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|herbaceous|savory,tender,Europe
-Oregano,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|peppery|savory,tender,Europe|Mediterranean
-Sage,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|savory|piney,tender,Europe
-Lemon balm,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,citrusy|sweet|minty,tender,Europe
-Marjoram,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sweet|mild|earthy,tender,Europe
-Lovage,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,celery-like|peppery|savory,tender,Europe
-Cress,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|earthy,tender,Global
-Scallion,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,mild|oniony|grassy,tender,Global
-Leek,placeholder,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,sweet|oniony|mild,crisp,Europe
-Escarole,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|mild,crunchy,Europe
-Mizuna,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|mild|grassy,tender,Asia
-Tatsoi,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|peppery|earthy,tender,Asia
-Epazote,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|medicinal|pungent,tender,Central America
-Seaweed,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,briny|umami|savory,chewy,Asia
-Nasturtium leaves,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|mild,tender,Global
-Grape leaves,placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|earthy|savory,chewy,Mediterranean
-Cactus (nopales),placeholder,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|slightly sour|grassy,slimy,Central America
+Lettuce,leafy vegetable often used in salads,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|mild|slightly sweet,crisp,Global
+Spinach,nutrient-dense leafy vegetable with a slightly bitter taste,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|iron-rich,tender,Global
+Arugula,peppery and spicy leafy green often used in salads,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|nutty,tender,Europe|Mediterranean
+Kale,robust and hearty leafy green with a slightly bitter flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|savory,chewy,Global
+Romaine,crisp and mild leafy vegetable often used in Caesar salads,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|slightly bitter|mild,crisp,Global
+Iceberg lettuce,crisp and watery leafy vegetable with a mild flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|watery|slightly sweet,crisp,Global
+Butter lettuce,smooth and tender leafy green with a buttery taste,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|buttery|slightly sweet,tender,Global
+Red leaf lettuce,crisp, red-tinged leafy vegetable with a mild bitterness,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly bitter|grassy,crisp,Global
+Green leaf lettuce,tender and mild leafy green with a slightly sweet flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly sweet|earthy,crisp,Global
+Endive,crunchy leafy vegetable with a slightly bitter and nutty flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|nutty|slightly sweet,crunchy,Europe
+Radicchio,bitter and peppery leafy vegetable with a nutty flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|peppery|nutty,crisp,Italy|Mediterranean
+Watercress,tender, peppery leafy green often used in salads and garnishes,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|slightly bitter,tender,Global
+Cabbage,crunchy and slightly bitter leafy vegetable often used in slaws,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|sweet|slightly bitter,crunchy,Global
+Red cabbage,crunchy leafy vegetable with a sweet, slightly peppery taste,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|sweet|slightly peppery,crunchy,Global
+Napa cabbage,tender leafy vegetable with a mild, slightly sweet flavor,vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|sweet|slightly peppery,tender,Asia
+Carrot,crunchy orange root vegetable with a mild, earthy sweetness,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|earthy|mild,crunchy,Global
+Cherry tomato,sweet and juicy small tomato often used in salads,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|juicy|tangy,juicy,Global
+Grape tomato,sweet and tangy small tomato variety,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|tangy|mild,juicy,Global
+Heirloom tomato,rich and tangy variety of tomato with a complex flavor,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|rich|tangy,juicy,Global
+Roma tomato,tangy and savory tomato variety often used in sauces,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,tangy|savory|mild,juicy,Global
+Beefsteak tomato,large, mild, and juicy tomato often used in sandwiches,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,mild|sweet|juicy,juicy,Global
+Cucumber,refreshing and mild vegetable with a high water content,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,watery|mild|refreshing,crisp,Global
+English cucumber,sweet and mild cucumber variety with fewer seeds,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,watery|mild|sweet,crisp,Global
+Persian cucumber,sweet and mild cucumber variety with thin skin,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,slightly sweet|mild|refreshing,crisp,Middle East
+Radish,crisp and peppery root vegetable with an earthy flavor,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,peppery|spicy|earthy,crisp,Global
+Daikon radish,mild and slightly sweet radish variety with a crunchy texture,vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,mild|peppery|slightly sweet,crisp,Asia
+Celery,crisp and mildly bitter stalk vegetable often used in salads,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,grassy|savory|slightly bitter,crisp,Global
+Bell pepper,sweet and mild vegetable with a crunchy texture,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|mild|grassy,crisp,Global
+Red bell pepper,sweet, mild, and slightly fruity bell pepper variety,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|mild|slightly fruity,crisp,Global
+Yellow bell pepper,sweet and fruity bell pepper variety with a mild flavor,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|fruity|mild,crisp,Global
+Orange bell pepper,sweet and tangy bell pepper variety with a fruity flavor,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|fruity|tangy,crisp,Global
+Green bell pepper,grassy and slightly bitter bell pepper variety,vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,grassy|slightly bitter|mild,crisp,Global
+Banana pepper,tangy and mildly spicy pepper with a fruity flavor,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,tangy|mildly spicy|fruity,crisp,Global
+Jalapeno,spicy and slightly sweet pepper often used in Mexican cuisine,vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,spicy|grassy|slightly sweet,crisp,Central America
+Poblano pepper, A mild to moderately spicy pepper with earthy and smoky flavors, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, earthy|mildly spicy|smoky, crisp, Central America
+Sweet mini peppers, A small, sweet, and fruity pepper variety often used for snacking or in salads, vegetable (whole), gram, wire_vegetable_cubed_am_e1uugv, sweet|fruity|mild, crisp, Global
+Onion, A pungent and slightly sweet vegetable used in a wide variety of dishes for flavoring, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, pungent|sweet|sharp, crisp, Global
+Red onion, A sharper, slightly sweeter onion variety commonly used in salads and as a garnish, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, sharp|sweet|pungent, crisp, Global
+White onion, A mild, slightly pungent onion variety with a sweet taste, often used in cooked dishes, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, mild|pungent|sweet, crisp, Global
+Green onion, Also known as scallions, these have a mild, grassy, and slightly oniony flavor, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, mild|oniony|grassy, tender, Global
+Shallot, A milder, sweeter onion variety with a slight savory taste, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, sweet|mild|savory, crisp, Global
+Chives, A mild, grassy vegetable related to onions, often used fresh for garnishing, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, oniony|mild|grassy, tender, Global
+Garlic, A pungent, spicy, and sharp vegetable widely used for its strong flavor and aroma, vegetable (cubed), gram, wire_vegetable_cubed_am_e1uugv, pungent|spicy|sharp, crisp, Global
+Avocado, A creamy, buttery vegetable with a mild nutty flavor, perfect for spreading or slicing, vegetable (slice), slice, wire_vegetable_slice_am_fc8a6l, buttery|nutty|creamy, creamy, Central America
+Zucchini, A mild, slightly sweet squash with a grassy flavor, commonly used in savory dishes, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, mild|slightly sweet|grassy, tender, Global
+Yellow squash, A mild, slightly sweet squash with a buttery flavor, often used in sautés or stir-fries, vegetable (rounds), gram, wire_vegetable_rounds_am_t1f7e7, mild|slightly sweet|buttery, tender, Global
+Snow pea, A sweet, grassy, mild pea often eaten whole, including the pod, vegetable (cubed), gram, wire_vegetable_cubed_am_e1uugv, sweet|grassy|mild, crisp, Asia
+Sugar snap pea, A sweet, juicy, and grassy pea variety that is typically eaten raw or lightly cooked, vegetable (cubed), gram, wire_vegetable_cubed_am_e1uugv, sweet|grassy|juicy, crisp, Global
+Green pea, A sweet, earthy, and mild pea variety commonly used in soups and side dishes, vegetable (cubed), gram, wire_vegetable_cubed_am_e1uugv, sweet|earthy|mild, tender, Global
+Microgreens, Small, tender, and flavorful greens that pack a peppery or earthy punch, vegetable (leaf), leaf, wire_vegetable_leaf_am_ojf2pa, peppery|earthy|nutty, tender, Global
+Sprouts, Young, tender shoots from seeds, offering earthy and grassy flavors with a slight crunch, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, nutty|grassy|earthy, crisp, Global
+Alfalfa sprouts, Mild and nutty sprouts commonly used in salads and sandwiches, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, mild|nutty|grassy, crisp, Global
+Broccoli sprouts, Earthy and spicy sprouts that are packed with nutrients, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, earthy|spicy|nutty, crisp, Global
+Sunflower sprouts, Mild, nutty sprouts that add a crunchy texture to dishes, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, nutty|mild|earthy, tender, Global
+Mung bean sprouts, Earthy and mild sprouts often used in Asian dishes for their crunch and nutrition, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, earthy|nutty|mild, crisp, Asia
+Clover sprouts, Grassy and mild sprouts with a nutty flavor, commonly used in sandwiches and salads, vegetable (batonnet), gram, wire_vegetable_batonne_am_zc6gsx, grassy|mild|nutty, tender, Global
+Broccoli, A nutrient-rich vegetable with an earthy and slightly bitter taste, often eaten cooked or raw, vegetable (whole), gram, wire_vegetable_cubed_am_e1uugv, earthy|slightly bitter|sweet, crunchy, Global
+Broccolini, A hybrid vegetable similar to broccoli, with a milder, sweeter, and nutty flavor, vegetable (whole), gram, wire_vegetable_cubed_am_e1uugv, earthy|mildly sweet|nutty, crunchy, Global
+Cauliflower, A mild, nutty vegetable with a slightly sweet flavor, often used as a substitute for grains, vegetable (whole), gram, wire_vegetable_cubed_am_e1uugv, mild|nutty|slightly sweet, crunchy, Global
+Fennel, A crisp, licorice-flavored vegetable with a mild, sweet taste, often used raw in salads or roasted, vegetable (slice), slice, wire_vegetable_slice_am_fc8a6l, licorice|sweet|mild, crisp, Europe
+Kohlrabi, A crunchy and mildly sweet vegetable with a slight peppery taste, often eaten raw or cooked, vegetable (slice), slice, wire_vegetable_slice_am_fc8a6l, sweet|peppery|mild, crunchy, Europe
+Parsnip, A root vegetable with a sweet, earthy, and nutty flavor, often roasted or mashed, vegetable (slice), slice, wire_vegetable_slice_am_fc8a6l, sweet|earthy|nutty, crunchy, Global
+Turnip, A peppery and slightly bitter root vegetable with a sweet taste, often used in soups or roasted, vegetable (slice), slice, wire_vegetable_slice_am_fc8a6l, peppery|slightly bitter|sweet, crisp, Global
+Beet,root vegetable that has an earthy, sweet, and mild flavor, vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,earthy|sweet|mild,crunchy,Global
+Golden beet,root vegetable known for its sweet, mild, and earthy flavor, vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,sweet|mild|earthy,crunchy,Global
+Jicama,a root vegetable with a sweet, starchy, and mild taste, often eaten raw, vegetable (batonnet),gram,wire_vegetable_batonne_am_zc6gsx,sweet|starchy|mild,crisp,Central America
+Rutabaga,root vegetable with a slightly bitter and earthy flavor, vegetable (slice),slice,wire_vegetable_slice_am_fc8a6l,earthy|slightly bitter|sweet,crunchy,Europe
+Okra,vegetable known for its grassy and slightly sweet flavor, often used in stews, vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,grassy|slightly sweet|mild,slimy,Global
+Bok choy,leafy green with a mild and slightly peppery taste, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|slightly peppery|sweet,crunchy,Asia
+Chard,a leafy vegetable with earthy and slightly bitter flavors, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|savory,tender,Global
+Mustard greens,leafy green with a spicy, peppery, and bitter flavor, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,spicy|peppery|bitter,tender,Global
+Collard greens,a hearty leafy vegetable with an earthy and slightly bitter taste, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|slightly bitter|mild,chewy,Global
+Purslane,a succulent leafy green with a tangy and citrusy flavor, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|citrusy|earthy,juicy,Global
+Dandelion greens,leafy greens known for their bitter and earthy flavors, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|peppery,tender,Global
+Sorrel,leafy herb with a sour and tangy flavor, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sour|citrusy|tangy,tender,Europe
+Chicory,leafy green with a bitter, earthy flavor and slightly nutty undertones, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|slightly nutty,crisp,Europe
+Basil,herb known for its aromatic and slightly sweet, peppery taste, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sweet|peppery|aromatic,tender,Global
+Cilantro,herb with a citrusy and peppery flavor, often used in cooking and garnishes, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,citrusy|peppery|herbaceous,tender,Global
+Parsley,herb with a mild, fresh, and earthy flavor, often used as a garnish, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,fresh|earthy|mild,tender,Global
+Dill,herb with grassy, anise-like, and fresh flavors, often used in pickling, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,grassy|anise-like|fresh,tender,Europe
+Mint,herb with a cooling and sweet flavor, often used in beverages and dishes, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,cooling|sweet|peppery,tender,Global
+Tarragon,herb with a licorice-like and slightly bitter taste, often used in French cuisine, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,licorice|anise|bitter,tender,Europe
+Thyme,herb with an earthy and herbaceous flavor, commonly used in savory dishes, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|herbaceous|savory,tender,Europe
+Oregano,herb known for its earthy, peppery, and savory flavors, often used in Mediterranean cooking, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|peppery|savory,tender,Europe|Mediterranean
+Sage,herb with an earthy, savory, and piney flavor, often used in roasting meats, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|savory|piney,tender,Europe
+Lemon balm,herb with a citrusy, sweet, and minty flavor, often used in teas and desserts, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,citrusy|sweet|minty,tender,Europe
+Marjoram,herb with a mild, sweet, and earthy flavor, often used in Mediterranean cuisine, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,sweet|mild|earthy,tender,Europe
+Lovage,herb with a celery-like and peppery taste, often used in soups and stews, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,celery-like|peppery|savory,tender,Europe
+Cress,leafy green with a peppery, spicy, and earthy flavor, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|earthy,tender,Global
+Scallion,onion-like vegetable with a mild and grassy flavor, used raw or cooked, vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,mild|oniony|grassy,tender,Global
+Leek,vegetable with a mild, sweet, and oniony flavor, commonly used in soups and stews, vegetable (rounds),gram,wire_vegetable_rounds_am_t1f7e7,sweet|oniony|mild,crisp,Europe
+Escarole,leafy vegetable with a slightly bitter and earthy flavor, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,bitter|earthy|mild,crunchy,Europe
+Mizuna,leafy green with a peppery and grassy flavor, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|mild|grassy,tender,Asia
+Tatsoi,leafy green with a mild and slightly peppery taste, used in stir-fries, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,mild|peppery|earthy,tender,Asia
+Epazote,herb with an earthy and pungent flavor, often used in Mexican cooking, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,earthy|medicinal|pungent,tender,Central America
+Seaweed,marine plant with a briny, umami, and savory flavor, commonly used in Asian cuisine, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,briny|umami|savory,chewy,Asia
+Nasturtium leaves,leafy green with a peppery and spicy taste, often used in salads, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,peppery|spicy|mild,tender,Global
+Grape leaves,leaves from grapevines with a tangy and earthy flavor, used in Mediterranean cuisine, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|earthy|savory,chewy,Mediterranean
+Cactus (nopales),tender cactus pads with a tangy and slightly sour flavor, often used in Mexican dishes, vegetable (leaf),leaf,wire_vegetable_leaf_am_ojf2pa,tangy|slightly sour|grassy,slimy,Central America

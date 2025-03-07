@@ -1,82 +1,82 @@
 name,description,ingr_type,unit_of_measure,image_url,flavor,texture,origin
-Brie,placeholder,cheese,slice,wire_cheese_am_beyk0d,buttery|mild|earthy|nutty,soft,France
-Camembert,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|mushroomy|buttery,soft,France
-Roquefort,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|sharp|pungent|spicy,crumbly,France
-Gorgonzola,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|creamy|spicy|pungent,crumbly,Italy
-Stilton,placeholder,cheese,slice,wire_cheese_am_beyk0d,rich|nutty|spicy|fruity,crumbly,United Kingdom
-Cheddar,placeholder,cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|savory|tangy,firm,United Kingdom
-Parmesan,placeholder,cheese,slice,wire_cheese_am_beyk0d,umami|nutty|salty|savory,hard,Italy
-Gouda,placeholder,cheese,slice,wire_cheese_am_beyk0d,sweet|caramel|buttery|nutty,semi-hard,Netherlands
-Edam,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|nutty|slightly salty,semi-hard,Netherlands
-Gruyere,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|savory|caramelized,firm,Switzerland
-Emmental,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|buttery|mild,semi-hard,Switzerland
-Comte,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|savory|nutty|buttery,firm,France
-Reblochon,placeholder,cheese,slice,wire_cheese_am_beyk0d,creamy|earthy|nutty|mild,soft,France
-Tomme de Savoie,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|grassy|nutty|buttery,semi-soft,France
-Munster,placeholder,cheese,slice,wire_cheese_am_beyk0d,pungent|savory|spicy|buttery,soft,France
-Maroilles,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|strong|pungent|savory,soft,France
-Pont-l'Eveque,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|buttery|mushroomy|mild,soft,France
-Livarot,placeholder,cheese,slice,wire_cheese_am_beyk0d,pungent|savory|earthy|spicy,soft,France
-Epoisses,placeholder,cheese,slice,wire_cheese_am_beyk0d,strong|pungent|savory|nutty,soft,France
-Langres,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|tangy|fruity|pungent,soft,France
-Brillat-Savarin,placeholder,cheese,slice,wire_cheese_am_beyk0d,creamy|buttery|mild|rich,soft,France
-Coulommiers,placeholder,cheese,slice,wire_cheese_am_beyk0d,creamy|buttery|mild|nutty,soft,France
-Chabichou,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|goaty|nutty|citrusy,semi-soft,France
-Crottin de Chavignol,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|tangy|nutty|goaty,semi-soft,France
-Valencay,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|goaty|nutty|citrusy,semi-soft,France
-Bleu d'Auvergne,placeholder,cheese,slice,wire_cheese_am_beyk0d,spicy|pungent|buttery|salty,crumbly,France
-Fourme d'Ambert,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|pungent|nutty|buttery,crumbly,France
-Bleu de Gex,placeholder,cheese,slice,wire_cheese_am_beyk0d,sharp|spicy|savory|nutty,crumbly,France
-Saint-Nectaire,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|buttery|mushroomy,semi-soft,France
-Cantal,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|nutty|buttery|savory,firm,France
-Salers,placeholder,cheese,slice,wire_cheese_am_beyk0d,grassy|nutty|buttery|earthy,firm,France
-Pelardon,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|goaty|nutty|herbal,semi-soft,France
-Selles-sur-Cher,placeholder,cheese,slice,wire_cheese_am_beyk0d,goaty|nutty|citrusy|earthy,semi-soft,France
-Banon,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|tangy|herbal,soft,France
-Feta,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|tangy|briny|crumbly,crumbly,Greece
-Halloumi,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|milky|grilled|chewy,firm,Cyprus
-Kefalotyri,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|tangy|nutty|sharp,hard,Greece
-Graviera,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|caramelized|mild,firm,Greece
-Pecorino Romano,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|sharp|umami|nutty,hard,Italy
-Pecorino Toscano,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|mild|buttery,firm,Italy
-Pecorino Sardo,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|savory|sharp,hard,Italy
-Pecorino Siciliano,placeholder,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|sharp|savory,hard,Italy
-Ricotta,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|milky|sweet|creamy,soft,Italy
-Mozzarella,placeholder,cheese,slice,wire_cheese_am_beyk0d,milky|mild|creamy|buttery,soft,Italy
-Burrata,placeholder,cheese,slice,wire_cheese_am_beyk0d,rich|milky|buttery|creamy,soft,Italy
-Scamorza,placeholder,cheese,slice,wire_cheese_am_beyk0d,smoky|milky|buttery|savory,semi-soft,Italy
-Provolone,placeholder,cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|savory|buttery,semi-hard,Italy
-Fontina,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|buttery|fruity,semi-soft,Italy
-Asiago,placeholder,cheese,slice,wire_cheese_am_beyk0d,savory|nutty|buttery|sharp,firm,Italy
-Taleggio,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|pungent|buttery|savory,soft,Italy
-Stracchino,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|milky|buttery|tangy,soft,Italy
-Caciocavallo,placeholder,cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|earthy|savory,semi-hard,Italy
-Raclette,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|savory|buttery,semi-soft,Switzerland
-Tete de Moine,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|fruity|savory,firm,Switzerland
-Vacherin Mont d'Or,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|creamy|buttery|nutty,soft,Switzerland
-Appenzeller,placeholder,cheese,slice,wire_cheese_am_beyk0d,spicy|savory|nutty|buttery,firm,Switzerland
-Sbrinz,placeholder,cheese,slice,wire_cheese_am_beyk0d,strong|nutty|sharp|savory,hard,Switzerland
-Beaufort,placeholder,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|buttery|savory,firm,France
-Manchego,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|nutty|buttery|savory,firm,Spain
-Idiazabal,placeholder,cheese,slice,wire_cheese_am_beyk0d,smoky|nutty|earthy|savory,firm,Spain
-Mahon,placeholder,cheese,slice,wire_cheese_am_beyk0d,sharp|buttery|nutty|salty,firm,Spain
-Roncal,placeholder,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|buttery|savory,firm,Spain
-Tetilla,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|sweet,soft,Spain
-Cabrales,placeholder,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|pungent|savory,crumbly,Spain
-Queso de Valdeón,placeholder,cheese,slice,wire_cheese_am_beyk0d,spicy|pungent|nutty|savory,crumbly,Spain
-Anejo Enchilado,placeholder,cheese,slice,wire_cheese_am_beyk0d,spicy|sharp|nutty|savory,firm,Mexico
-Panela,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|milky|buttery|fresh,soft,Mexico
-Cotija,placeholder,cheese,slice,wire_cheese_am_beyk0d,salty|sharp|crumbly|umami,hard,Mexico
-Oaxaca,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|stringy,semi-soft,Mexico
-Queso Blanco,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|fresh,soft,Mexico
-Queso Fresco,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|milky|tangy|crumbly,soft,Mexico
-Edam,placeholder,cheese,slice,wire_cheese_am_beyk0d,nutty|savory|buttery|slightly sweet,semi-hard,Netherlands
-Wensleydale,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|fruity|tangy|crumbly,crumbly,United Kingdom
-Red Leicester,placeholder,cheese,slice,wire_cheese_am_beyk0d,nutty|buttery|savory|sharp,firm,United Kingdom
-Double Gloucester,placeholder,cheese,slice,wire_cheese_am_beyk0d,buttery|nutty|savory|mild,firm,United Kingdom
-Cheshire,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|savory|buttery|crumbly,crumbly,United Kingdom
-Caerphilly,placeholder,cheese,slice,wire_cheese_am_beyk0d,tangy|buttery|savory|crumbly,crumbly,United Kingdom
-Lancashire,placeholder,cheese,slice,wire_cheese_am_beyk0d,crumbly|buttery|tangy|savory,crumbly,United Kingdom
-Dorset Blue Vinny,placeholder,cheese,slice,wire_cheese_am_beyk0d,spicy|pungent|savory|nutty,crumbly,United Kingdom
-Shropshire Blue,placeholder,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|savory|nutty,crumbly,United Kingdom
-Yarg,placeholder,cheese,slice,wire_cheese_am_beyk0d,mild|earthy|buttery|tangy,semi-soft,United Kingdom
+Brie, A soft and creamy French cheese with a delicate white rind, known for its buttery, mild, earthy, and nutty flavor.,cheese,slice,wire_cheese_am_beyk0d,buttery|mild|earthy|nutty,soft,France
+Camembert,A soft, creamy cheese from France with a distinct earthy, mushroomy, and buttery taste, wrapped in a white rind.,cheese,slice,wire_cheese_am_beyk0d,earthy|mushroomy|buttery,soft,France
+Roquefort,"A pungent and tangy blue cheese from France with sharp and spicy flavors, and a crumbly texture",cheese,slice,wire_cheese_am_beyk0d,salty|sharp|pungent|spicy,crumbly,France
+Gorgonzola,"An Italian blue cheese with a creamy texture and a tangy, spicy, and pungent flavor profile",cheese,slice,wire_cheese_am_beyk0d,tangy|creamy|spicy|pungent,crumbly,Italy
+Stilton,"A rich and nutty blue cheese from the UK, with a spicy, fruity flavor and crumbly texture",cheese,slice,wire_cheese_am_beyk0d,rich|nutty|spicy|fruity,crumbly,United Kingdom
+Cheddar,"A firm, sharp cheese from the UK, known for its nutty, savory, and tangy flavors, often enjoyed aged",cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|savory|tangy,firm,United Kingdom
+Parmesan,"A hard, granular cheese from Italy with a savory, salty, umami flavor that enhances various dishes",cheese,slice,wire_cheese_am_beyk0d,umami|nutty|salty|savory,hard,Italy
+Gouda,"A semi-hard cheese from the Netherlands with a smooth texture and a sweet, caramel, buttery, and nutty flavor",cheese,slice,wire_cheese_am_beyk0d,sweet|caramel|buttery|nutty,semi-hard,Netherlands
+Edam,"A semi-hard cheese from the Netherlands with a mild, buttery, slightly salty, and nutty flavor",cheese,slice,wire_cheese_am_beyk0d,mild|buttery|nutty|slightly salty,semi-hard,Netherlands
+Gruyere,"A firm Swiss cheese with a fruity, nutty, savory, and slightly caramelized flavor, perfect for melting",cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|savory|caramelized,firm,Switzerland
+Emmental,"A semi-hard Swiss cheese with a mild, nutty, buttery flavor and a slightly fruity taste",cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|buttery|mild,semi-hard,Switzerland
+Comte,"A firm French cheese with a nutty, savory, buttery, and fruity flavor, perfect for pairing with wines",cheese,slice,wire_cheese_am_beyk0d,fruity|savory|nutty|buttery,firm,France
+Reblochon, A soft and creamy French cheese with a mild, earthy, and nutty flavor, cheese, slice, wire_cheese_am_beyk0d, creamy|earthy|nutty|mild, soft, France
+Tomme de Savoie, A semi-soft cheese from France with grassy, nutty, and buttery flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|grassy|nutty|buttery, semi-soft, France
+Munster, A soft cheese from France with pungent, savory, spicy, and buttery flavors, cheese, slice, wire_cheese_am_beyk0d, pungent|savory|spicy|buttery, soft, France
+Maroilles, A strong-smelling soft cheese from France with earthy, pungent, and savory flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|strong|pungent|savory, soft, France
+Pont-l'Eveque, A soft French cheese with a mild, earthy flavor and buttery, mushroomy notes, cheese, slice, wire_cheese_am_beyk0d, earthy|buttery|mushroomy|mild, soft, France
+Livarot, A pungent soft cheese from France with savory, earthy, and spicy flavors, cheese, slice, wire_cheese_am_beyk0d, pungent|savory|earthy|spicy, soft, France
+Epoisses, A strong, pungent French cheese with savory and nutty flavors, cheese, slice, wire_cheese_am_beyk0d, strong|pungent|savory|nutty, soft, France
+Langres, A creamy and tangy cheese from France with fruity and pungent flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|tangy|fruity|pungent, soft, France
+Brillat-Savarin, A rich, triple-cream soft cheese from France with buttery and mild flavors, cheese, slice, wire_cheese_am_beyk0d, creamy|buttery|mild|rich, soft, France
+Coulommiers, A creamy, buttery soft cheese from France with mild and nutty flavors, cheese, slice, wire_cheese_am_beyk0d, creamy|buttery|mild|nutty, soft, France
+Chabichou, A semi-soft goat cheese from France with tangy, goaty, and citrusy flavors, cheese, slice, wire_cheese_am_beyk0d, tangy|goaty|nutty|citrusy, semi-soft, France
+Crottin de Chavignol, A semi-soft goat cheese from France with earthy, tangy, and nutty flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|tangy|nutty|goaty, semi-soft, France
+Valencay, A semi-soft French goat cheese with earthy, goaty, and citrusy flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|goaty|nutty|citrusy, semi-soft, France
+Bleu d'Auvergne, A tangy, spicy blue cheese from France with buttery and salty flavors, cheese, slice, wire_cheese_am_beyk0d, spicy|pungent|buttery|salty, crumbly, France
+Fourme d'Ambert, A mild yet pungent blue cheese from France with nutty and buttery flavors, cheese, slice, wire_cheese_am_beyk0d, mild|pungent|nutty|buttery, crumbly, France
+Bleu de Gex, A blue cheese from France with sharp, spicy, and nutty flavors, cheese, slice, wire_cheese_am_beyk0d, sharp|spicy|savory|nutty, crumbly, France
+Saint-Nectaire, A semi-soft French cheese with earthy, nutty, buttery, and mushroomy flavors, cheese, slice, wire_cheese_am_beyk0d, earthy|nutty|buttery|mushroomy, semi-soft, France
+Cantal, A firm French cheese with tangy, nutty, buttery, and savory flavors, cheese, slice, wire_cheese_am_beyk0d, tangy|nutty|buttery|savory, firm, France
+Salers, A firm French cheese with grassy, nutty, and earthy flavors, cheese, slice, wire_cheese_am_beyk0d, grassy|nutty|buttery|earthy, firm, France
+Pelardon, A French semi-soft goat cheese with a tangy, goaty, and herbal flavor.,cheese,slice,wire_cheese_am_beyk0d,tangy|goaty|nutty|herbal,semi-soft,France
+Selles-sur-Cher, A creamy French cheese with a tangy, citrusy, earthy flavor and a characteristic white rind.,cheese,slice,wire_cheese_am_beyk0d,goaty|nutty|citrusy|earthy,semi-soft,France
+Banon, A French soft goat cheese with an earthy, nutty, tangy, and herbal flavor, often wrapped in chestnut leaves.,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|tangy|herbal,soft,France
+Feta, A briny, crumbly Greek cheese with a tangy, salty flavor, often used in Mediterranean dishes.,cheese,slice,wire_cheese_am_beyk0d,salty|tangy|briny|crumbly,crumbly,Greece
+Halloumi, A firm and chewy Cypriot cheese with a salty, milky flavor, often grilled for a crispy texture.,cheese,slice,wire_cheese_am_beyk0d,salty|milky|grilled|chewy,firm,Cyprus
+Kefalotyri, A hard Greek cheese with a sharp, nutty, and tangy flavor, typically used for grating.,cheese,slice,wire_cheese_am_beyk0d,salty|tangy|nutty|sharp,hard,Greece
+Graviera, A firm Greek cheese with a mild, fruity, nutty flavor and caramelized undertones.,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|caramelized|mild,firm,Greece
+Pecorino Romano, A hard Italian cheese made from sheep's milk, known for its sharp, salty, and umami flavors.,cheese,slice,wire_cheese_am_beyk0d,salty|sharp|umami|nutty,hard,Italy
+Pecorino Toscano, A firm Italian sheep's milk cheese with a mild, buttery, fruity, and nutty flavor.,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|mild|buttery,firm,Italy
+Pecorino Sardo, A hard Sardinian cheese with a sharp, earthy, nutty, and savory flavor.,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|savory|sharp,hard,Italy
+Pecorino Siciliano, A hard Sicilian cheese with a strong, spicy, sharp, and savory flavor profile.,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|sharp|savory,hard,Italy
+Ricotta, A soft, creamy Italian cheese with a mild, sweet, and milky flavor, often used in desserts and savory dishes.,cheese,slice,wire_cheese_am_beyk0d,mild|milky|sweet|creamy,soft,Italy
+Mozzarella, A soft Italian cheese with a creamy, buttery, and mild flavor, often used in pizza and salads.,cheese,slice,wire_cheese_am_beyk0d,milky|mild|creamy|buttery,soft,Italy
+Burrata, A creamy Italian cheese with a rich, buttery flavor, often enjoyed fresh.,cheese,slice,wire_cheese_am_beyk0d,rich|milky|buttery|creamy,soft,Italy
+Scamorza, A semi-soft, smoky Italian cheese with a savory, milky, and buttery flavor.,cheese,slice,wire_cheese_am_beyk0d,smoky|milky|buttery|savory,semi-soft,Italy
+Provolone, A semi-hard Italian cheese with a sharp, nutty, and buttery flavor, often enjoyed aged.,cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|savory|buttery,semi-hard,Italy
+Fontina, A semi-soft Italian cheese with a fruity, earthy, buttery, and nutty flavor, ideal for melting.,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|buttery|fruity,semi-soft,Italy
+Asiago, A firm Italian cheese with a savory, buttery, nutty, and sharp flavor, often used in grating.,cheese,slice,wire_cheese_am_beyk0d,savory|nutty|buttery|sharp,firm,Italy
+Taleggio, A soft Italian cheese with an earthy, pungent, buttery, and savory flavor.,cheese,slice,wire_cheese_am_beyk0d,earthy|pungent|buttery|savory,soft,Italy
+Stracchino, A soft Italian cheese with a mild, buttery, tangy, and creamy flavor, often spread on bread.,cheese,slice,wire_cheese_am_beyk0d,mild|milky|buttery|tangy,soft,Italy
+Caciocavallo, A semi-hard Italian cheese with a sharp, nutty, earthy, and savory flavor.,cheese,slice,wire_cheese_am_beyk0d,sharp|nutty|earthy|savory,semi-hard,Italy
+Raclette, A semi-soft Swiss cheese with a savory, nutty, buttery flavor, ideal for melting.,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|savory|buttery,semi-soft,Switzerland
+Tete de Moine, A firm Swiss cheese with a nutty, fruity, savory, and earthy flavor, often shaved into rosettes.,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|fruity|savory,firm,Switzerland
+Vacherin Mont d'Or, A soft Swiss cheese with a creamy, buttery, nutty, and earthy flavor.,cheese,slice,wire_cheese_am_beyk0d,earthy|creamy|buttery|nutty,soft,Switzerland
+Appenzeller, A firm Swiss cheese with a savory, spicy, buttery, and nutty flavor.,cheese,slice,wire_cheese_am_beyk0d,spicy|savory|nutty|buttery,firm,Switzerland
+Sbrinz, A hard Swiss cheese with a strong, nutty, sharp, and savory flavor, often grated.,cheese,slice,wire_cheese_am_beyk0d,strong|nutty|sharp|savory,hard,Switzerland
+Beaufort,A smooth, rich French cheese with fruity, nutty, buttery, and savory flavors, ideal for melting,cheese,slice,wire_cheese_am_beyk0d,fruity|nutty|buttery|savory,firm,France
+Manchego,A firm Spanish cheese with a tangy, nutty, buttery, and savory flavor, often made from sheep's milk,cheese,slice,wire_cheese_am_beyk0d,tangy|nutty|buttery|savory,firm,Spain
+Idiazabal,A smoky, nutty, earthy, and savory Spanish cheese made from sheep's milk, often used for grilling,cheese,slice,wire_cheese_am_beyk0d,smoky|nutty|earthy|savory,firm,Spain
+Mahon,A sharp, buttery, nutty, and salty Spanish cheese made from cow's milk, known for its distinctive flavor,cheese,slice,wire_cheese_am_beyk0d,sharp|buttery|nutty|salty,firm,Spain
+Roncal,A firm Spanish cheese with earthy, nutty, buttery, and savory flavors, made from sheep's milk,cheese,slice,wire_cheese_am_beyk0d,earthy|nutty|buttery|savory,firm,Spain
+Tetilla,A mild, buttery, milky, and sweet Spanish cheese, often served as a table cheese,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|sweet,soft,Spain
+Cabrales,A strong, spicy, pungent, and savory blue cheese from Spain, typically aged in caves,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|pungent|savory,crumbly,Spain
+Queso de Valdeón,A spicy, pungent, nutty, and savory Spanish blue cheese, often wrapped in leaves for aging,cheese,slice,wire_cheese_am_beyk0d,spicy|pungent|nutty|savory,crumbly,Spain
+Anejo Enchilado,A spicy, sharp, nutty, and savory Mexican cheese often coated in chili powder,cheese,slice,wire_cheese_am_beyk0d,spicy|sharp|nutty|savory,firm,Mexico
+Panela,A mild, milky, buttery, and fresh Mexican cheese, often used in grilling or crumbling,cheese,slice,wire_cheese_am_beyk0d,mild|milky|buttery|fresh,soft,Mexico
+Cotija,A salty, sharp, crumbly, and umami Mexican cheese, commonly used as a topping for various dishes,cheese,slice,wire_cheese_am_beyk0d,salty|sharp|crumbly|umami,hard,Mexico
+Oaxaca,A mild, buttery, milky, and stringy Mexican cheese, perfect for melting in dishes like quesadillas,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|stringy,semi-soft,Mexico
+Queso Blanco,A mild, buttery, milky, and fresh Mexican cheese, often used in salads or as a filling,cheese,slice,wire_cheese_am_beyk0d,mild|buttery|milky|fresh,soft,Mexico
+Queso Fresco,A mild, milky, tangy, and crumbly Mexican cheese, ideal for sprinkling over dishes like tacos,cheese,slice,wire_cheese_am_beyk0d,mild|milky|tangy|crumbly,soft,Mexico
+Edam,A semi-hard Dutch cheese with nutty, savory, buttery, and slightly sweet flavors, often used in sandwiches,cheese,slice,wire_cheese_am_beyk0d,nutty|savory|buttery|slightly sweet,semi-hard,Netherlands
+Wensleydale,A mild, fruity, tangy, and crumbly English cheese, often paired with fruit or used in baking,cheese,slice,wire_cheese_am_beyk0d,mild|fruity|tangy|crumbly,crumbly,United Kingdom
+Red Leicester,A firm British cheese with nutty, buttery, savory, and sharp flavors, commonly used in cooking,cheese,slice,wire_cheese_am_beyk0d,nutty|buttery|savory|sharp,firm,United Kingdom
+Double Gloucester,A firm English cheese with a buttery, nutty, savory, and mild flavor, perfect for cheese boards,cheese,slice,wire_cheese_am_beyk0d,buttery|nutty|savory|mild,firm,United Kingdom
+Cheshire,A crumbly English cheese with tangy, savory, buttery, and crumbly textures, often enjoyed on its own or in salads,cheese,slice,wire_cheese_am_beyk0d,tangy|savory|buttery|crumbly,crumbly,United Kingdom
+Caerphilly,A crumbly Welsh cheese with tangy, buttery, savory, and crumbly flavors, ideal for sandwiches,cheese,slice,wire_cheese_am_beyk0d,tangy|buttery|savory|crumbly,crumbly,United Kingdom
+Lancashire,A crumbly, buttery, tangy, and savory British cheese, frequently used in savory pies and pasties,cheese,slice,wire_cheese_am_beyk0d,crumbly|buttery|tangy|savory,crumbly,United Kingdom
+Dorset Blue Vinny,A pungent, spicy, savory, and nutty English blue cheese, typically enjoyed with crackers or as a table cheese,cheese,slice,wire_cheese_am_beyk0d,spicy|pungent|savory|nutty,crumbly,United Kingdom
+Shropshire Blue,A strong, spicy, savory, and nutty blue cheese from the UK, known for its characteristic orange hue,cheese,slice,wire_cheese_am_beyk0d,strong|spicy|savory|nutty,crumbly,United Kingdom
+Yarg,A semi-soft British cheese with mild, earthy, buttery, and tangy flavors, often wrapped in nettles for aging,cheese,slice,wire_cheese_am_beyk0d,mild|earthy|buttery|tangy,semi-soft,United Kingdom

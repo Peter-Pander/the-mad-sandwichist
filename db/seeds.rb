@@ -45,7 +45,7 @@ def ingredients_from_csv(csv_text)
     end
 
     ### Parse Origin
-    country = row['origin'].split('|')
+    country = row['origin']&.split('|') || []
     country.each do |f|
       if Trait.find_by(name: f.downcase).nil?
         trait = Trait.create!(name: f.downcase, trait_type: "origin")

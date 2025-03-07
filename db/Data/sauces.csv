@@ -1,107 +1,107 @@
 name,description,ingr_type,unit_of_measure,image_url,flavor,texture,origin
-ketchup,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|sweet|savory,thick,Europe|North America
-mayonnaise,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory,smooth,Europe
-mustard,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|spicy|sharp,thick,Europe
-barbecue sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,smoky|sweet|tangy,thick,North America
-hot sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|savory,thin,Central America
-soy sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,salty|umami|savory,thin,China|Japan
-teriyaki sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|salty|umami,thick,Japan
-worcestershire sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|umami|savory,thin,United Kingdom
-ranch dressing,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|herby|savory,thick,North America
-caesar dressing,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|tangy|creamy,thick,North America
-blue cheese dressing,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|tangy|savory,thick,North America
-thousand island dressing,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|savory,thick,North America
-vinaigrette,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|acidic|herby,thin,Europe
-honey mustard,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|spicy,thick,North America
-buffalo sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|buttery,thin,North America
-sriracha,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|garlicky|sweet,thick,Thailand
-hoisin sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|savory|umami,thick,China
-duck sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,China
-sweet and sour sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|tangy|savory,thin,China
-plum sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,China
-oyster sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|umami|slightly sweet,thick,China
-fish sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,salty|umami|pungent,thin,Southeast Asia
-ponzu sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|citrusy|savory,thin,Japan
-gochujang,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|savory|fermented,thick,Korea
-tahini,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|bitter|earthy,thick,Middle East
-hummus,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|garlicky,thick,Middle East
-tzatziki,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|herby|cooling,thick,Greece|Turkey
-aioli,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,garlicky|creamy|savory,thick,France|Spain
-remoulade,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|savory|spicy,thick,France
-pesto,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,herby|garlicky|nutty,thick,Italy
-alfredo sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|buttery|cheesy,thick,Italy
-marinara sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|herby|savory,thick,Italy
-tomato sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|savory|herby,thick,Europe
-bolognese sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,meaty|savory|rich,thick,Italy
-carbonara sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory|umami,thick,Italy
-vodka sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|tangy|savory,thick,Italy
-bechamel sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|buttery|mild,thick,France
-mornay sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|creamy|savory,thick,France
-cheese sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|buttery,thick,Europe|North America
-nacho cheese,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|spicy,thick,North America
-gravy,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|meaty|umami,thick,Europe|North America
-brown sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|savory|fruity,thin,United Kingdom
-peppercorn sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|savory|creamy,thick,France
-chimichurri,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,herby|tangy|garlicky,thin,Argentina
-salsa,placeholder,chunky sauce,tablespoon,wire_chunky_sauce_am_tnff7v,tangy|spicy|fresh,chunky,Central America
-pico de gallo,placeholder,chunky sauce,tablespoon,wire_chunky_sauce_am_tnff7v,tangy|spicy|fresh,chunky,Central America
-guacamole,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory|fresh,thick,Central America
-mole sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|spicy|chocolatey,thick,Mexico
-adobo sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,smoky|spicy|savory,thick,Mexico
-enchilada sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|savory,thin,Mexico
-chili sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|tangy|sweet,thick,Global
-harissa,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|smoky|earthy,thick,North Africa
-berbere sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|warm,thick,Ethiopia
-zhug,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|herby|garlicky,thick,Middle East
-rouille,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,garlicky|spicy|savory,thick,France
-bourguignonne sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|savory|winey,thick,France
-bordelaise sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|savory|winey,thick,France
-hollandaise sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|tangy|creamy,thick,France
-bearnaise sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|tangy|herby,thick,France
-curry sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|savory,thick,South Asia
-tikka masala sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|creamy|savory,thick,India|United Kingdom
-korma sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,mild|creamy|nutty,thick,India
-butter chicken sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|spicy|savory,thick,India
-raita,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|cooling|herby,thick,India
-peanut sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|slightly sweet,thick,Southeast Asia
-satay sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|spicy,thick,Indonesia|Thailand
-sweet chili sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|spicy|tangy,thin,Thailand
-yellow curry paste,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|warm,thick,Thailand
-red curry paste,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|fragrant|savory,thick,Thailand
-green curry paste,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|herby|fragrant,thick,Thailand
-black bean sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|earthy|salty,thick,China
-chili garlic sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|garlicky|savory,thick,China
-tomatillo sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|savory|spicy,thin,Mexico
-queso fresco sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|tangy,thick,Mexico
-crema,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|mild|tangy,thick,Mexico
-yogurt sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|creamy|herby,thick,Global
-tartar sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|creamy|savory,thick,France|United Kingdom
-cocktail sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|spicy|savory,thin,North America
-mignonette sauce,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|acidic|peppery,thin,France
-anchovy paste,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|salty|fishy,thick,Europe
-garlic butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|garlicky|savory,thick,Global
-herb butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|herby|savory,thick,Global
-truffle butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|earthy|rich,thick,Europe
-apple butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|spiced,thick,North America
-pumpkin butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|spiced|buttery,thick,North America
-maple butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|rich,thick,North America
-fruit preserves,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|tangy,thick,Global
-jam,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|tangy,thick,Global
-jelly,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|smooth,thick,Global
-marmalade,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,Global
-nut butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|creamy,thick,Global
-peanut butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|creamy,thick,North America
-almond butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|creamy,thick,Global
-cashew butter,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|creamy,thick,Global
-hazelnut spread,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|chocolatey|sweet,thick,Global
-chocolate spread,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|chocolatey|creamy,thick,Global
-dulce de leche,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|caramelized|creamy,thick,Latin America
-caramel sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|rich,thick,Global
-butterscotch sauce,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|caramelized,thick,Global
-honey,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|floral|sticky,thin,Global
-golden syrup,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|caramelized|sticky,thin,United Kingdom
-molasses,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|earthy|sticky,thin,Global
-agave syrup,placeholder,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|mild|smooth,thin,Central America
-marshmallow cream,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fluffy|sticky,thick,North America
-custard,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|sweet|vanilla,thick,Europe
-lemon curd,placeholder,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|sweet|buttery,thick,United Kingdom
+ketchup,tangy tomato-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|sweet|savory,thick,Europe|North America
+mayonnaise,creamy egg-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory,smooth,Europe
+mustard,tangy yellow condiment,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|spicy|sharp,thick,Europe
+barbecue sauce,sweet and smoky sauce,tablespoon,wire_thick_sauce_am_q1uzcx,smoky|sweet|tangy,thick,North America
+hot sauce,spicy vinegar-based sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|savory,thin,Central America
+soy sauce,salty fermented sauce,tablespoon,wire_thin_sauce_am_fl1iea,salty|umami|savory,thin,China|Japan
+teriyaki sauce,sweet soy-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|salty|umami,thick,Japan
+worcestershire sauce,fermented sauce with spices,tablespoon,wire_thin_sauce_am_fl1iea,tangy|umami|savory,thin,United Kingdom
+ranch dressing,creamy herb-based dressing,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|herby|savory,thick,North America
+caesar dressing,creamy anchovy-based dressing,tablespoon,wire_thick_sauce_am_q1uzcx,savory|tangy|creamy,thick,North America
+blue cheese dressing,creamy dressing with blue cheese,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|tangy|savory,thick,North America
+thousand island dressing,sweet and tangy creamy dressing,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|savory,thick,North America
+vinaigrette,oil and vinegar-based dressing,tablespoon,wire_thin_sauce_am_fl1iea,tangy|acidic|herby,thin,Europe
+honey mustard,sweet and tangy mustard-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|spicy,thick,North America
+buffalo sauce,spicy and buttery sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|buttery,thin,North America
+sriracha,spicy garlic-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|garlicky|sweet,thick,Thailand
+hoisin sauce,sweet and savory soy-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|savory|umami,thick,China
+duck sauce,sweet and tangy fruit-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,China
+sweet and sour sauce,sweet and tangy fruit-based sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|tangy|savory,thin,China
+plum sauce,sweet and tangy fruit-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,China
+oyster sauce,umami-packed sauce with oyster extract,tablespoon,wire_thick_sauce_am_q1uzcx,savory|umami|slightly sweet,thick,China
+fish sauce,fermented fish-based sauce,tablespoon,wire_thin_sauce_am_fl1iea,salty|umami|pungent,thin,Southeast Asia
+ponzu sauce,tangy citrus-based soy sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|citrusy|savory,thin,Japan
+gochujang,fermented spicy and savory paste,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|savory|fermented,thick,Korea
+tahini,sesame seed-based paste,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|bitter|earthy,thick,Middle East
+hummus,garlicky chickpea-based dip,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|garlicky,thick,Middle East
+tzatziki,cucumber and yogurt-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|herby|cooling,thick,Greece|Turkey
+aioli,garlicky olive oil-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,garlicky|creamy|savory,thick,France|Spain
+remoulade,tangy and spicy mustard-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|savory|spicy,thick,France
+pesto,basil and nut-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,herby|garlicky|nutty,thick,Italy
+alfredo sauce,creamy butter and cheese-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|buttery|cheesy,thick,Italy
+marinara sauce,tomato and herb-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|herby|savory,thick,Italy
+tomato sauce,tangy tomato-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|savory|herby,thick,Europe
+bolognese sauce,meat-based tomato sauce,tablespoon,wire_thick_sauce_am_q1uzcx,meaty|savory|rich,thick,Italy
+carbonara sauce,creamy sauce with eggs and cheese,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory|umami,thick,Italy
+vodka sauce,creamy tomato and vodka-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|tangy|savory,thick,Italy
+bechamel sauce,creamy butter and milk-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|buttery|mild,thick,France
+mornay sauce,cheese-based variation of bechamel,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|creamy|savory,thick,France
+cheese sauce,cheese and butter-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|buttery,thick,Europe|North America
+nacho cheese,spicy cheese-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|spicy,thick,North America
+gravy,meaty sauce made from drippings,tablespoon,wire_thick_sauce_am_q1uzcx,savory|meaty|umami,thick,Europe|North America
+brown sauce,tangy and savory sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|savory|fruity,thin,United Kingdom
+peppercorn sauce,creamy sauce with peppercorns,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|savory|creamy,thick,France
+chimichurri,herb-based vinegar sauce,tablespoon,wire_thin_sauce_am_fl1iea,herby|tangy|garlicky,thin,Argentina
+salsa,chunky tomato and pepper-based sauce,tablespoon,wire_chunky_sauce_am_tnff7v,tangy|spicy|fresh,chunky,Central America
+pico de gallo,fresh tomato and cilantro salsa,tablespoon,wire_chunky_sauce_am_tnff7v,tangy|spicy|fresh,chunky,Central America
+guacamole,creamy avocado-based dip,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|savory|fresh,thick,Central America
+mole sauce,spicy chocolate and chili-based sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|spicy|chocolatey,thick,Mexico
+adobo sauce,smoky and spicy sauce often used in Mexican cuisine,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,smoky|spicy|savory,thick,Mexico
+enchilada sauce,tangy and spicy sauce commonly used in enchiladas,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,spicy|tangy|savory,thin,Mexico
+chili sauce,spicy and tangy sauce made with chili peppers,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|tangy|sweet,thick,Global
+harissa,spicy North African chili paste with earthy flavors,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|smoky|earthy,thick,North Africa
+berbere sauce,spicy Ethiopian sauce with a warm, earthy flavor,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|warm,thick,Ethiopia
+zhug,spicy, herby, and garlicky Middle Eastern sauce,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|herby|garlicky,thick,Middle East
+rouille,garlicky and spicy sauce from France, often served with seafood,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,garlicky|spicy|savory,thick,France
+bourguignonne sauce,rich French sauce made with wine and butter,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|savory|winey,thick,France
+bordelaise sauce,rich French sauce made with wine, bone marrow, and butter,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,rich|savory|winey,thick,France
+hollandaise sauce,buttery and tangy French sauce made with egg yolks and butter,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|tangy|creamy,thick,France
+bearnaise sauce,buttery, tangy sauce with herbs and shallots,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|tangy|herby,thick,France
+curry sauce,spicy and savory sauce often made with a blend of spices,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|savory,thick,South Asia
+tikka masala sauce,creamy and spicy Indian sauce often used in tikka masala,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|creamy|savory,thick,India|United Kingdom
+korma sauce,mild and creamy Indian sauce with nutty flavors,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,mild|creamy|nutty,thick,India
+butter chicken sauce,creamy, spicy sauce typically used in butter chicken,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|spicy|savory,thick,India
+raita,creamy and cooling yogurt-based sauce with herbs,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|cooling|herby,thick,India
+peanut sauce,thick, nutty sauce with a slightly sweet and savory flavor,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|slightly sweet,thick,Southeast Asia
+satay sauce,spicy and nutty sauce served with satay skewers,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|spicy,thick,Indonesia|Thailand
+sweet chili sauce,sweet, tangy, and spicy sauce commonly used in Thai cuisine,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|spicy|tangy,thin,Thailand
+yellow curry paste,spicy and earthy curry paste with turmeric,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|earthy|warm,thick,Thailand
+red curry paste,fragrant and savory curry paste with red chili peppers,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|fragrant|savory,thick,Thailand
+green curry paste,spicy and herby curry paste with green chilies and herbs,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|herby|fragrant,thick,Thailand
+black bean sauce,savory and earthy sauce made from fermented black beans,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|earthy|salty,thick,China
+chili garlic sauce,spicy and garlicky sauce made with chili peppers,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,spicy|garlicky|savory,thick,China
+tomatillo sauce,tangy and savory sauce made from tomatillos,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|savory|spicy,thin,Mexico
+queso fresco sauce,cheesy, tangy, and savory sauce made from fresh cheese,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,cheesy|savory|tangy,thick,Mexico
+crema,creamy and mildly tangy sauce commonly used in Mexican cuisine,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|mild|tangy,thick,Mexico
+yogurt sauce,tangy and creamy sauce made from yogurt,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|creamy|herby,thick,Global
+tartar sauce,creamy, tangy sauce made with mayonnaise and pickles,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|creamy|savory,thick,France|United Kingdom
+cocktail sauce,tangy and spicy sauce often served with seafood,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|spicy|savory,thin,North America
+mignonette sauce,tangy and peppery sauce made with vinegar and pepper,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,tangy|acidic|peppery,thin,France
+anchovy paste,salty and savory paste made from anchovies,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,savory|salty|fishy,thick,Europe
+garlic butter,buttery and garlicky sauce,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|garlicky|savory,thick,Global
+herb butter,buttery and herby sauce made with fresh herbs,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|herby|savory,thick,Global
+truffle butter,buttery sauce with earthy truffle flavor,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,buttery|earthy|rich,thick,Europe
+apple butter,sweet and spiced sauce made from cooked apples,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|spiced,thick,North America
+pumpkin butter,sweet and spiced sauce made from cooked pumpkin,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|spiced|buttery,thick,North America
+maple butter,sweet and rich butter flavored with maple syrup,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|rich,thick,North America
+fruit preserves,sweet, fruity spread made from cooked fruit,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|tangy,thick,Global
+jam,sweet and fruity spread made from fruit and sugar,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|tangy,thick,Global
+jelly,sweet and smooth spread made from fruit juice,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fruity|smooth,thick,Global
+marmalade,sweet and tangy spread made from citrus fruit,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|tangy|fruity,thick,Global
+nut butter,creamy spread made from ground nuts,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|savory|creamy,thick,Global
+peanut butter,creamy and nutty spread made from ground peanuts,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|creamy|savory,thick,Global
+almond butter,creamy and nutty spread made from ground almonds,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|creamy|savory,thick,Global
+cashew butter,creamy and nutty spread made from ground cashews,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|creamy|savory,thick,Global
+hazelnut spread,sweet and nutty spread made from ground hazelnuts and cocoa,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,nutty|chocolatey|sweet,thick,Global
+chocolate spread,creamy and sweet spread made from chocolate and sugar,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|chocolatey|creamy,thick,Global
+dulce de leche,sweet and creamy caramelized milk spread,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|caramelized|creamy,thick,Latin America
+caramel sauce,sweet and rich sauce made from butter, sugar, and cream,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|rich,thick,Global
+butterscotch sauce,sweet and buttery sauce with a caramelized flavor,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|buttery|caramelized,thick,Global
+honey,sweet, floral syrup made by bees from flower nectar,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|floral|sticky,thin,Global
+golden syrup,sweet syrup with a caramelized flavor,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|caramelized|sticky,thin,United Kingdom
+molasses,sweet and earthy syrup made from sugarcane or sugar beets,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|earthy|sticky,thin,Global
+agave syrup,sweet and mild syrup made from the agave plant,thin sauce,tablespoon,wire_thin_sauce_am_fl1iea,sweet|mild|smooth,thin,Central America
+marshmallow cream,sweet and fluffy spread made from marshmallow ingredients,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,sweet|fluffy|sticky,thick,North America
+custard,creamy and sweet sauce made with eggs, milk, and sugar,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,creamy|sweet|vanilla,thick,Europe
+lemon curd,tangy and sweet sauce made from lemon juice, sugar, and eggs,thick sauce,tablespoon,wire_thick_sauce_am_q1uzcx,tangy|sweet|buttery,thick,United Kingdom
