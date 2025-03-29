@@ -13,6 +13,7 @@
     <meta name="current-user-id" content="<%= current_user&.id %>">
     <link rel="manifest" href="<%= asset_path 'manifest.json' %>">
     <%= render 'shared/ios_pwa_links' %>
+    <%= render "shared/loading" %>
   </head>
   <body data-controller="sandwichist-ai">
     <% unless controller_name == "landing" && action_name == "home" %>
