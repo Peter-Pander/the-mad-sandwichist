@@ -73,3 +73,4 @@ Inspired by the belief that every home cook, from beginner to seasoned pro, shou
 - [Jakub Ohkado](https://www.linkedin.com/in/jakub-ohkado-085877197/)
 - [Jasmine Stivers](https://github.com/jasstivers)
 - [Maximilian Schöpf](https://www.linkedin.com/in/maximilian-schöpf-19307523b)
+# Solenoko
