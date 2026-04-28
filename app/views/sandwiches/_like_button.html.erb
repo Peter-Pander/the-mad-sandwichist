@@ -1,7 +1,9 @@
-<div class="favorite-button" data-controller="favorite" data-favorite-id="<%= sandwich.id %>" data-favorite-state="<%= current_user.favorited?(sandwich) %>" data-action="click->favorite#toggle">
-  <% if sandwich.favorited_by?(current_user) %>
-    <i class="fa-solid fa-heart text-danger"></i> <!-- Solid red heart -->
-  <% else %>
-    <i class="fa-regular fa-heart"></i> <!-- Regular black heart -->
-  <% end %>
-</div>
+<% if user_signed_in? %>
+  <div class="favorite-button" data-controller="favorite" data-favorite-id="<%= sandwich.id %>" data-favorite-state="<%= current_user.favorited?(sandwich) %>" data-action="click->favorite#toggle">
+    <% if sandwich.favorited_by?(current_user) %>
+      <i class="fa-solid fa-heart text-danger"></i> <!-- Solid red heart -->
+    <% else %>
+      <i class="fa-regular fa-heart"></i> <!-- Regular black heart -->
+    <% end %>
+  </div>
+<% end %>
