@@ -1,6 +1,6 @@
 class SandwichesController < ApplicationController
   # skip_before_action :authenticate_user!, only: [:index]
-  before_action :authenticate_user!, only: :toggle_favorite
+  before_action :authenticate_user!, only: %i[new create toggle_favorite]
   before_action :set_sandwich, only: %i[show]
   before_action :set_user, only: %i[create]  # Set the current user
 
