@@ -1,30 +1,32 @@
-<div class="modal fade" id="aiModal" tabindex="-1" aria-labelledby="aiModalLabel" aria-hidden="true">
-  <div class="modal-dialog d-flex justify-content-center">
-    <div class="modal-content w-75">
-      <div class="modal-header">
-        <h5 class="modal-title" id="aiModalLabel">AI Modal</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body p-4">
-        <form>
-          <!-- Num of Ingredients -->
-          <div data-mdb-input-init class="form-outline mb-4">
-            <label for="aiQuantity">Add <em id="rangeValLabel" style="font-style: normal;">1</em> ingredients:</label>
-            <input type="range" id="aiQuantity" data-sandwichist-ai-target="aiQuantity" oninput="document.getElementById('rangeValLabel').innerHTML = this.value;" name="ai_quantity" min="1" max="10" value="1">
-          </div>
-          <!-- Inspiration Word -->
-          <div data-mdb-input-init class="form-outline mb-4">
-            <label for="keyword">Give the sandwichist a theme:</label>
-            <input type="text" id="keyword" class="form-control" data-sandwichist-ai-target="keyword" placeholder="Lasagna, Portugal, Mickey Mouse, etc..." />
-          </div>
-          <div class="form-group">
-            <label for="responseBox">How about trying:</label>
-            <textarea class="form-control" id="responseBox" data-sandwichist-ai-target="responseBox" rows="5" placeholder="Waiting for your command..." readonly></textarea>
-          </div>
-          <!-- Submit button -->
-          <button data-action="click->sandwichist-ai#generate" class="run-ai-button"> "Get Crazy!"</button>
-        </form>
+<% if user_signed_in? %>
+  <div class="modal fade" id="aiModal" tabindex="-1" aria-labelledby="aiModalLabel" aria-hidden="true">
+    <div class="modal-dialog d-flex justify-content-center">
+      <div class="modal-content w-75">
+        <div class="modal-header">
+          <h5 class="modal-title" id="aiModalLabel">AI Modal</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body p-4">
+          <form>
+            <!-- Num of Ingredients -->
+            <div data-mdb-input-init class="form-outline mb-4">
+              <label for="aiQuantity">Add <em id="rangeValLabel" style="font-style: normal;">1</em> ingredients:</label>
+              <input type="range" id="aiQuantity" data-sandwichist-ai-target="aiQuantity" oninput="document.getElementById('rangeValLabel').innerHTML = this.value;" name="ai_quantity" min="1" max="10" value="1">
+            </div>
+            <!-- Inspiration Word -->
+            <div data-mdb-input-init class="form-outline mb-4">
+              <label for="keyword">Give the sandwichist a theme:</label>
+              <input type="text" id="keyword" class="form-control" data-sandwichist-ai-target="keyword" placeholder="Lasagna, Portugal, Mickey Mouse, etc..." />
+            </div>
+            <div class="form-group">
+              <label for="responseBox">How about trying:</label>
+              <textarea class="form-control" id="responseBox" data-sandwichist-ai-target="responseBox" rows="5" placeholder="Waiting for your command..." readonly></textarea>
+            </div>
+            <!-- Submit button -->
+            <button data-action="click->sandwichist-ai#generate" class="run-ai-button"> "Get Crazy!"</button>
+          </form>
+        </div>
       </div>
     </div>
   </div>
-</div>
+<% end %>
