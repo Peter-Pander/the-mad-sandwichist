@@ -1,5 +1,5 @@
 <body class="sandwiches index">
-  <div data-controller="search favorite-toggle" data-favorite-toggle-favorites="<%= current_user.favorited_by_type('Sandwich').map(&:id).to_json %>" class="toggle-container">
+  <div data-controller="search favorite-toggle" data-favorite-toggle-favorites="<%= user_signed_in? ? current_user.favorited_by_type('Sandwich').map(&:id).to_json : [].to_json %>" class="toggle-container">
     <!-- Search Bar -->
     <div class="row search-top">
       <div class="col-12 d-flex justify-content-between align-items-center">
