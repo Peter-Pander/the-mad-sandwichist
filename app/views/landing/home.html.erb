@@ -1,6 +1,8 @@
 <div class="landing-container">
   <div class="image-container">
-    <a href="/sandwiches">
+    <a href="/sandwiches"
+        data-action="click->loading-screen#delayedRedirect"
+        class="landing-button">
       <img src="<%= asset_path('landing-button.png') %>" alt="Landing Button" class="landing-image">
     </a>
   </div>
